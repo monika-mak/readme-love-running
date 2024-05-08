@@ -1,140 +1,203 @@
-# Love Running
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
-## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
-
-- __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
-
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
-## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+<h1 align="center">Time Master Website </h1>
 
 
-### Validator Testing 
+Link to deployed site: [Time Master](https://monika-mak.github.io/time_master_PP1/)
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+![Am I responsive](readme_documents/responsive.png)
 
 
-## Credits 
+Welcome to the Time Master website. This platform is designed for individuals who often find themselves saying, "there are never enough hours in the day." It aims to tackle common productivity issues by addressing the excuses we tell ourselves, providing a support system through powerful tips and insights for better time management. 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
+- #### First Time Visitor Goals
+1. Understand the main purpose of the site and learn about productivity.
+2. Identify personal productivity challenges and discover resources to improve time management.
+3. Navigate the site easily to find relevant information.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+#### Returning Visitor Goals
+1. Recap impactful productivity strategies.
+2. Access interactive tools to enhance daily productivity.
 
-### Content 
+#### Frequent User Goals
+1. Stay updated with new productivity techniques or tools.
+2. Regularly review effective productivity strategies.
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+-   ### Design
+    -   #### Colour Scheme
+            The website uses a palette of green, white,and orange along with some charcolar and red. All colors were carefuly designed and matched for good contrast. 
+    ![Colors](readme_documents/color_collection.png)
+       
+    -   #### Typography
+        -   Open Sans is the primary font, chosen for its readability and modern appearance. 
+            It's paired with Sans Serif as the fallback to ensure text is legible and clean across all devices and browsers.
+            The second font is  Montserrat, for its  clarity and modern feel
+    -   #### Imagery
+        -   The website employs motivational and imagery to encourage users to explore and utilize productivity techniques.
+            Large, striking hero image is used to capture attention and highlight the main messages.
 
-### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+*   ### Wireframes
+    -   Home Page & list Wireframe - [View](readme_documents/wireframe1.png)
+    -   Homepage and list mock up  - [View](readme_documents/wireframe2.png)
+    -   Contact and tips wireframe - [View](readme_documents/wireframe3.png)
+    -  Contact and tips mockup     -[View](readme_documents/wireframe4.png)
+
+    ## Features
+        # Time Master Website Feature Overview
+
+    ## Website Structure and Navigation
+
+    ### Header and Navigation Bar
+    - **Responsiveness:** The navigation bar is responsive, adjusting to different device screens. 
+        On mobile devices, it transforms into a hamburger menu to save space and maintain usability.
+    - **Logo and Branding:** The Time Master logo is prominently displayed on the left side of the navigation bar, 
+        reinforcing the brand on every page.
+    - **Navigation Links:** Easy-to-access links for Home, Features, Tips, and Contact 
+        sections ensure users can navigate the site with minimal effort.
+
+    ### Hero Image
+    - **Visual Appeal:** A large, engaging hero image captures attention on the home page, 
+        along with the bold multicoloured text setting a motivational tone with a clock visual to emphasize time management.
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+    ### Main Content and List Items
+    - **Content Layout:** The main content Starts with qualifying users for further exploration, 
+        since it is a productivity website, we (AKA me) don’t want to waste their time.  
+        The Headline itself raises the question “Do I have a  productivity issue ?” 
+        User then have a decision to make, :
+        1. Find out more : they realizes / confirms that they are indeed lacking productivity. Where conviniently they can do it by clicking “see tips” link under “yes” section. 
+        2. Leave the page and move on with their day. 
+        They morelikey do not have productivity issue. 
+        *note -  this may be a harsh approach for some , but taking to consideration time and money spend on unqualified users, this may be a necessary step. 
 
-## Other General Project Advice
+    - **Excuses Lists:** Features and tips are presented in list formats with icons or bullet points for easy reading and quick comprehension.
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
+    ### Footer
+    - **Navigation:** Contains quick links to important pages like Tips and Contact; 
+    - **Social Media Links:** Icons linking to social media platforms to enhance community engagement
+         and provide updates on new features or tips.
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
+    ### Functional Highlights
+    - **'Excuse Buster' Feature:** Interactive section where users input common procrastination excuses
+        to receive tailored advice and strategies.
+    - **Productivity Tips:** Categorized tips that users can apply to different aspects of their work or study routines.
+    - **Contact Form:** A straightforward form that allows users to send inquiries directly through the website, 
+        improving user interaction and support.
 
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
+    ## User Journey
+    1. **First-Time Visitors** are greeted by the hero image and a brief introduction to the site’s purpose, 
+        with easy options to explore features or contact for more information.
+    2. **Returning Visitors** can quickly navigate to their areas of interest like productivity tips or updated features 
+        through the responsive navigation bar.
+    3. **Frequent Users** benefit from recap the most impactful productivity strategies.
 
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
+    ## Future Enhancements
+    - **Interactive Tools:** Implementation of dynamic tools like a real-time productivity tracker or a customizable task list.
+    - **Community Features:** Options for users to share their own tips or success stories, fostering a community of productivity enthusiasts.
 
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+    ### Navigation Bar: Responsive across devices, featuring a logo and easy-to-access links for Home, Tips, and Contact sections.
+        ### Hero Image: A large image sets the motivational tone, focusing on productivity.
+        Main Content: Challenges users to consider if they have productivity issues and provides quick navigation to tips.
+        Footer: Contains links and social media icons for extended interaction.
+
+    -   Responsive on all device sizes
+
+    -   Interactive elements
+
+    ## Resources and Tools Used
+
+    ### Fonts and Icons
+    - [Google Fonts](https://fonts.google.com/) - Imported fonts used throughout the website.
+    - [Font Awesome](https://fontawesome.com/) - Provided the iconography on the website.
+
+    ### Development Tools
+    - [Google Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for troubleshooting, testing features, and solving issues related to responsiveness and styling.
+    - [GitHub](https://github.com/) - Used to save and store the project files.
+    - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Utilized to generate AI-enhanced images (Hero Image).
+
+    ### Image and Color Resources
+    - [Tiny PNG](https://tinypng.com/) - Compressed images to optimize website performance.
+    - [Favicon.io](https://favicon.io/) - Tool used to create the website's favicon.
+    - [Coolors](https://coolors.co/) - Assisted in creating a modern, matching color palette.
+    - [Canva](https://www.canva.com/) - Used for creating mockups and wireframes.
+    - [Pexels](https://www.pexels.com/) - Supplied stock images for the website.
+
+    ### Testing and Responsiveness
+    - [Am I Responsive?](http://ami.responsivedesign.is/) - Showcased the website on a range of devices to check responsiveness.
+
+    ### Languages Used
+
+    -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+    ### Lighthouse testing 
+        Page speed testing. 
+    
+    ## Testing
+
+        The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+        -   ![W3 Markup Validator](readme_documents/w3_validator.png) - 
+        -   [W3C CSS Validator]()
+
+       - ### Testing User Stories from User Experience (UX) Section
+            The website has been tested on multiple browsers (Chrome, Firefox, Safari) and on mobile, tablet, and desktop devices. 
+            User testing was conducted to ensure that navigation is intuitive and the site meets the needs outlined in user stories.
+
+       - ### Further Testing
+
+        - Friends and family tested the site for usability issues and bugs.
+
+
+        ### Known Bugs
+        - no known bugs recorded; 
+
+    ## Deployment
+
+    ### GitHub Pages
+
+    The project was deployed to GitHub Pages using the following steps...
+
+    1. Log in to GitHub and locate the [time_master_PP1 Repository](https://github.com/monika-mak/time_master_PP1)
+    2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+        - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
+    3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+    4. Under "Source", click the dropdown called "None" and select "Master Branch".
+    5. The page will automatically refresh.
+    6. Scroll back down through the page to locate the now published site [Time Master](https://monika-mak.github.io/time_master_PP1/) in the "GitHub Pages" section.
+
+    ### Forking the GitHub Repository
+
+    By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+    1. Log in to GitHub and locate the [time_master_PP1 Repository](https://github.com/monika-mak/time_master_PP1)
+    2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+    3. You should now have a copy of the original repository in your GitHub account.
+
+ 
+    - ## Credits
+
+    ### Content 
+
+        Content was inspired by a Video about completing a month task in a day, various resources were used listed below :
+        - [How To Finish One Month of Work Today](https://www.youtube.com/watch?v=Q7Phkq0BUXM)  
+
+    - ### Learning and Support Resources
+    
+        - [W3Schools](https://www.w3schools.com/) - For learning and practice.
+        - [YouTube](https://www.youtube.com/) - To source a deeper understanding of concepts, mainly Flexbox.
+        - [Code Institute](https://codeinstitute.net/) - To structure and support learnings.
+        - [CSS-Tricks](https://css-tricks.com/) - For Flexbox learning support.
+        - [ChatGPT](https://openai.com/chatgpt) - For quick information support when needed.
+        - [Perplexity AI](https://www.perplexity.ai/) - For a focused source of information in one place.
+        - [Iris](https://www.iristech.co/) - To validate information given on the website TimeMaster.co. 
+        - [Study Music, Concentration, Focus](https://www.youtube.com/results?search_query=study+music+concentration+focus) - To keep me calm during work.
+
+
+    ### Acknowledgements
+        A massive shout-out to:
+
+        Amy Richardson- for constant support as well as great advices throughout the process; 
+        Femi-  my mentor who utilised our meetings very well, giving constructive feedback and excellent practise. 
+        Valentyn_5P- for great team support;
+        Huge Thanks to the community for great support and helping me feel like i am not here alone. 
