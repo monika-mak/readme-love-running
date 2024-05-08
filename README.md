@@ -4,7 +4,7 @@
 
 Link to deployed site: [Time Master](https://monika-mak.github.io/time_master_PP1/)
 
-![Am I responsive](media/love_running_ethos.png)
+![Am I responsive](readme_documents/responsive.png)
 
 
 Welcome to the Time Master website. This platform is designed for individuals who often find themselves saying, "there are never enough hours in the day." It aims to tackle common productivity issues by addressing the excuses we tell ourselves, providing a support system through powerful tips and insights for better time management. 
@@ -24,8 +24,8 @@ Welcome to the Time Master website. This platform is designed for individuals wh
 
 -   ### Design
     -   #### Colour Scheme
-        - The website uses a palette of green, white,and orange along with some charcolar and red. All colors were carefuly designed and matched for good contrast. 
-            ![Colors](media/love_running_ethos.png)
+    - The website uses a palette of green, white,and orange along with some charcolar and red. All colors were carefuly designed and matched for good contrast. 
+    ![Colors](readme_documents/color_collection.png)
        
     -   #### Typography
         -   Open Sans is the primary font, chosen for its readability and modern appearance. 
@@ -43,7 +43,7 @@ Welcome to the Time Master website. This platform is designed for individuals wh
     -  Contact and tips mockup     -[View](readme_documents/wireframe4.png)
 
     ## Features
-      ## Time Master Website Feature Overview
+       Time Master Website Feature Overview
 
     ## Website Structure and Navigation
 
@@ -96,7 +96,7 @@ Welcome to the Time Master website. This platform is designed for individuals wh
     - **Community Features:** Options for users to share their own tips or success stories, fostering a community of productivity enthusiasts.
 
     ### Navigation Bar: Responsive across devices, featuring a logo and easy-to-access links for Home, Tips, and Contact sections.
-    - ### Hero Image: A large image sets the motivational tone, focusing on productivity.
+    -   Hero Image: A large image sets the motivational tone, focusing on productivity.
         Main Content: Challenges users to consider if they have productivity issues and provides quick navigation to tips.
         Footer: Contains links and social media icons for extended interaction.
 
@@ -131,14 +131,14 @@ Welcome to the Time Master website. This platform is designed for individuals wh
     -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
     ### Lighthouse testing 
-      - Page speed testing. 
+    Page speed testing. 
     
     ## Testing
 
     The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-    -  ![W3 Markup Validator](media/love_running_ethos.png) 
-    - ![W3C CSS Validator]
+    -   ![W3 Markup Validator](readme_documents/w3_validator.png)
+    -   [W3C CSS Validator]()
 
        - ### Testing User Stories from User Experience (UX) Section
             The website has been tested on multiple browsers (Chrome, Firefox, Safari) and on mobile, tablet, and desktop devices. 
@@ -146,11 +146,10 @@ Welcome to the Time Master website. This platform is designed for individuals wh
 
        - ### Further Testing
 
-        - Friends and family tested the site for usability issues and bugs.
+            Friends and family tested the site for usability issues and bugs.
 
-
-        ### Known Bugs
-        - no known bugs recorded; 
+    - ### Known Bugs
+        no known bugs recorded; 
 
     ## Deployment
 
@@ -180,9 +179,9 @@ Welcome to the Time Master website. This platform is designed for individuals wh
         ### Content 
 
         Content was inspired by a Video about completing a month task in a day, various resources were used listed below :
-        - ![How To Finish One Month of Work Today](https://www.youtube.com/watch?v=Q7Phkq0BUXM)  
+        - [How To Finish One Month of Work Today](https://www.youtube.com/watch?v=Q7Phkq0BUXM)  
 
-        - ### Learning and Support Resources
+    - ### Learning and Support Resources
     
         - [W3Schools](https://www.w3schools.com/) - For learning and practice.
         - [YouTube](https://www.youtube.com/) - To source a deeper understanding of concepts, mainly Flexbox.
@@ -194,10 +193,10 @@ Welcome to the Time Master website. This platform is designed for individuals wh
         - [Study Music, Concentration, Focus](https://www.youtube.com/results?search_query=study+music+concentration+focus) - To keep me calm during work.
 
 
-        ### Acknowledgements
-        A massive shout-out to:
+    ### Acknowledgements
+    A massive shout-out to:
 
-        Amy Richardson- for constant support as well as great advices throughout the process; 
-        Femi-  my mentor who utilised our meetings very well, giving constructive feedback and excellent practise. 
-        Valentyn_5P- for great team support;
-        Huge Thanks to the community for great support and helping me feel like i am not here alone. 
+    Amy Richardson- for constant support as well as great advices throughout the process; 
+    Femi-  my mentor who utilised our meetings very well, giving constructive feedback and excellent practise. 
+    Valentyn_5P- for great team support;
+    Huge Thanks to the community for great support and helping me feel like i am not here alone. 
